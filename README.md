@@ -13,10 +13,7 @@ public static void main(String[] args) {
 
 #  Minhas Habilidades:
 
-- **Java**  
  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
-  <img width="12" />
-- **MySQL**  
    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
 
 

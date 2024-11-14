@@ -13,7 +13,7 @@ public static void main(String[] args) {
 
 #  Minhas Habilidades:
 
- <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+ <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  /> <img src="https://iconduck.com/icons/13126/mongodb-original-wordmark?shared" /> 
 
 
 

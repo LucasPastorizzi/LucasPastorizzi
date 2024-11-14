@@ -5,18 +5,15 @@
 
 
 
-# 🔧 Minhas Habilidades
-
-Eu sou desenvolvedor com experiência nas seguintes tecnologias:
+#  Minhas Habilidades:
 
 - **Java**  
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-
+ <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img width="12" />
 - **MySQL**  
-  ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="12" />
 
-- **NoSQL**  
-  ![NoSQL](https://img.shields.io/badge/NoSQL-000000?style=flat-square&logo=nodedotjs&logoColor=white)
 
   <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasPastorizzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

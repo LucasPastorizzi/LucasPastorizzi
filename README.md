@@ -18,7 +18,10 @@ public static void main(String[] args) {
   <img width="12" />
 - **MySQL**  
    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
-  <img width="12" />
+
+
+
+  
 
 
   <div align="left">

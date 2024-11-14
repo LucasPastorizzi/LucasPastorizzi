@@ -1,6 +1,6 @@
 
 
-# public class LucasPastorizzi { 
+# Public class LucasPastorizzi { 
 
 
  public static void main(String[] args) {

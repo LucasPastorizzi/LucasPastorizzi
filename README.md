@@ -1,6 +1,12 @@
+public class LucasPastorizzi { 
+
+public static void main(String[] args) {
+
+
 ###  Hello, my name is Lucas , i'm 17 years old , i'm studyng programming , when i was little , eu allways like computer and all things related with computer and tecnology.I want to be a great programmer , i'm studyng for this to happen.
 
-
+     }
+} 
 
 
 

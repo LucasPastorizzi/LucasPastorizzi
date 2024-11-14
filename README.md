@@ -13,8 +13,10 @@ public static void main(String[] args) {
 
 #  Minhas Habilidades:
 
- <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  /> <img src="https://iconduck.com/icons/13126/mongodb-original-wordmark?shared" /> <img src= "xmlns="http://www.w3.org/2000/svg"  />
-  
+ <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  /> <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  /> <img src="https://iconduck.com/icons/13126/mongodb-original-wordmark?shared" /> 
+
+<img src= "http://www.w3.org/2000/svg"  />
+ 
 
 
   <div align="left">

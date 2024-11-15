@@ -30,6 +30,7 @@
     <img src="https://skillicons.dev/icons?i=trello" height="45" alt="Trello logo" />
 </div>
     <img src="https://skillicons.dev/icons?i=trello" height="45" alt="Trello logo" />
+    <img src="https://chat.openai.com/file-PtefoV8Lfntb5RijBohXKSgl" alt="NoSQL Logo" width="200">
 
 ---
 

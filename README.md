@@ -27,9 +27,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB logo" />
     <img src="https://skillicons.dev/icons?i=nosql" height="45" alt="NoSQL logo" />
     <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VSCode logo" />
-    <img src="https://skillicons.dev/icons?i=trello" height="45" alt="Trello logo" />
-</div>
-    <img src="https://skillicons.dev/icons?i=trello" height="45" alt="Trello logo" />
+    
    
 ----
 

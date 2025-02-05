@@ -19,7 +19,7 @@
 
 ---
 
-## My Skills:
+# My Skills:
 
 ## Front end:
 <div align="left">
@@ -31,11 +31,17 @@
 
 <div align="left">
     <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java logo" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL logo" />
-    <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB logo" />
     <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VSCode logo" />
 
    
+
+ ## Databases:
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB logo" />
+ <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL logo" />
+
+ 
 ----
 
 ## GitHub Stats:

@@ -21,13 +21,20 @@
 
 ## My Skills:
 
+## Front end:
+<div align="left">
+
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="Css logo" />
+     <img src="https://skillicons.dev/icons?i=html" height="45" alt="Html logo" />
+
+## Back end:
+
 <div align="left">
     <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java logo" />
     <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL logo" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB logo" />
     <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VSCode logo" />
-    <img src="https://skillicons.dev/icons?i=css" height="45" alt="Css logo" />
-     <img src="https://skillicons.dev/icons?i=html" height="45" alt="Html logo" />
+
    
 ----
 

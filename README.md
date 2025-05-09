@@ -6,7 +6,17 @@
  public static void main(String[] args) {
 
 
-###  Hello, my name is Lucas , i'm 17 years old , i'm studyng programming , when i was little , eu allways like computer and all things related with computer and tecnology.I want to be a great programmer , i'm studyng for this to happen.
+### Sou estudante de Desenvolvimento de Sistemas no Senac RS, atualmente no último ano do curso técnico. Desde pequeno, sempre fui apaixonado por tecnologia e busco constantemente ampliar meus conhecimentos na área. Tenho grande interesse em desenvolvimento de software, soluções inovadoras e boas práticas de programação. Além da formação técnica, realizo cursos na Udemy para me manter atualizado com as tendências do mercado.
+
+Ao longo do meu curso, desenvolvi projetos que me permitiram aprimorar minhas habilidades em programação, banco de dados e experiência do usuário. Sou comprometido, com facilidade para aprender novas tecnologias e trabalhar em equipe.
+
+Tenho experiência com as seguintes tecnologias:
+ • Linguagens e Banco de Dados: Java , JPA , JDBC, HTML5, CSS3, JavaScript, TypeScript, MySQL, NoSQL, MongoDB
+ • Ferramentas e Metodologias: Trello, Figma, UX/UI, Git, Github.
+
+I also speak English. I studied at KNN Idiomas in Ivoti for two years, where I had a great learning experience. I consider my English level to be good, but I am always looking to improve it even more.
+
+Estou sempre aberto a novas oportunidades e desafios que me permitam evoluir profissionalmente na área de tecnologia.
 
      }
 } 

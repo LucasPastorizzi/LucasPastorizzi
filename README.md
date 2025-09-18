@@ -43,6 +43,8 @@
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB logo" />
  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL logo" />
  <img src="https://skillicons.dev/icons?i=hibernate" height="45" alt="MySQL logo" />
+<img src="https://skillicons.dev/icons?i=maven" height="45" alt="Java logo" />
+<img src="https://skillicons.dev/icons?i=spring" height="45" alt="ava logo" />
    
 
  

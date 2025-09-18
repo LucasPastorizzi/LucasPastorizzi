@@ -29,6 +29,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="Css logo" />
     <img src="https://skillicons.dev/icons?i=html" height="45" alt="Html logo" />
     <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Html logo" />
+ <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="Css logo" />
    
 
 

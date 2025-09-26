@@ -43,7 +43,7 @@
  Ao longo do meu curso, desenvolvi projetos que me permitiram aprimorar minhas habilidades em programação, banco de dados e experiência do usuário. Sou comprometido, com facilidade para aprender novas tecnologias e trabalhar em equipe.
 
  Tenho experiência com as seguintes tecnologias:
-  • Linguagens e Banco de Dados: Java , JPA , JDBC, HTML5, CSS3, JavaScript, TypeScript, MySQL, NoSQL, MongoDB
+  • Linguagens e Banco de Dados: Java , JPA , JDBC, Hibernate,Maven ,Spring, Spring boot, Spring Cloud,HTML5, CSS3, JavaScript, TypeScript, MySQL, NoSQL, MongoDB
   • Ferramentas e Metodologias: Trello, Figma, UX/UI, Git, Github.
 
  I also speak English. I studied at KNN Idiomas in Ivoti for two years, where I had a great learning experience. I consider my English level to be good, but I am always looking to improve it even more.

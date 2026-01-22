@@ -43,17 +43,17 @@
 
 ## LucasPastorizzi  - Who is ?
 
- Sou estudante de Desenvolvimento de Sistemas no Senac RS, atualmente no último ano do curso técnico. Desde pequeno, sempre fui apaixonado por tecnologia e busco constantemente ampliar meus conhecimentos na área. Tenho grande interesse em desenvolvimento de software, soluções inovadoras e boas práticas de programação. Além da formação técnica, realizo cursos na Udemy para me manter atualizado com as tendências do mercado.
+Sou Técnico em Desenvolvimento de Sistemas recentemente formado pelo Senac RS, com ensino médio concluído recentemente também, e desde cedo sou apaixonado por tecnologia. Tenho grande interesse em desenvolvimento de software, soluções inovadoras e boas práticas de programação, buscando constantemente aprimorar meus conhecimentos e acompanhar as tendências do mercado.
+Ao longo da minha formação, desenvolvi projetos que fortaleceram minhas habilidades em programação, banco de dados e experiência do usuário (UX/UI). Sou uma pessoa comprometida, com facilidade para aprender novas tecnologias e trabalhar em equipe, sempre focado em evolução profissional.
+Além da formação técnica, realizo cursos complementares na Udemy, visando atualização contínua e aprofundamento em tecnologias modernas utilizadas no mercado.
+Inglês: Nível intermediário/avançado
+ Estudei por dois anos na KNN Idiomas (Ivoti/RS), onde adquiri uma base sólida em comunicação. Estou em constante aprimoramento do idioma.
 
- Ao longo do meu curso, desenvolvi projetos que me permitiram aprimorar minhas habilidades em programação, banco de dados e experiência do usuário. Sou comprometido, com facilidade para aprender novas tecnologias e trabalhar em equipe.
+Objetivo Profissional
 
- Tenho experiência com as seguintes tecnologias:
-  • Linguagens e Banco de Dados: Java , JPA , JDBC, Hibernate,Maven ,Spring, Spring boot, Spring Cloud,HTML5, CSS3, JavaScript,Next.Js,  TypeScript,React ,  MySQL, NoSQL, MongoDB
-  • Ferramentas e Metodologias: Trello, Figma, UX/UI, Git, Github.
+Estou sempre aberto a novas oportunidades e desafios que me permitam crescer profissionalmente e contribuir com soluções eficientes e inovadoras na área de tecnologia.
 
- I also speak English. I studied at KNN Idiomas in Ivoti for two years, where I had a great learning experience. I consider my English level to be good, but I am always looking to improve it even more.
 
- Estou sempre aberto a novas oportunidades e desafios que me permitam evoluir profissionalmente na área de tecnologia.
 
 
 

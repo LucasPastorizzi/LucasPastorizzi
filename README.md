@@ -64,12 +64,42 @@ Estou sempre aberto a novas oportunidades e desafios que me permitam crescer pro
 
 
 
-## GitHub Stats:
+## 📊 GitHub Stats
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasPastorizzi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="Stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasPastorizzi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="Languages graph" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasPastorizzi&radius=16&theme=dracula&area=false&border=5&hide_title=false&hide_border=true" height="300" alt="Activity graph" />
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LucasPastorizzi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPastorizzi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="170"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img 
+    src="https://streak-stats.demolab.com?user=LucasPastorizzi&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LucasPastorizzi&theme=tokyo-night&hide_border=true&area=true" 
+    height="300"
+  />
+
 </div>
 
 ---

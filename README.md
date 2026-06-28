@@ -23,7 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" />
+          
 </div>
   
 <br><br>
@@ -32,15 +33,19 @@
 
 ## LucasPastorizzi  - Who is ?
 
-Sou Técnico em Desenvolvimento de Sistemas recentemente formado pelo Senac RS, com ensino médio concluído recentemente também, e desde cedo sou apaixonado por tecnologia. Tenho grande interesse em desenvolvimento de software, soluções inovadoras e boas práticas de programação, buscando constantemente aprimorar meus conhecimentos e acompanhar as tendências do mercado.
-Ao longo da minha formação, desenvolvi projetos que fortaleceram minhas habilidades em programação, banco de dados e experiência do usuário (UX/UI). Sou uma pessoa comprometida, com facilidade para aprender novas tecnologias e trabalhar em equipe, sempre focado em evolução profissional.
-Além da formação técnica, realizo cursos complementares na Udemy, visando atualização contínua e aprofundamento em tecnologias modernas utilizadas no mercado.
-Inglês: Nível intermediário/avançado
- Estudei por dois anos na KNN Idiomas (Ivoti/RS), onde adquiri uma base sólida em comunicação. Estou em constante aprimoramento do idioma.
+Desenvolvedor de Software com experiência na área financeira da ERP CIGAM, atuando no desenvolvimento e manutenção de soluções corporativas voltadas para gestão empresarial. Trabalho com tecnologias como Magic xpa, SQL e Oracle Database, participando da análise, implementação e evolução de processos financeiros, sempre buscando eficiência, qualidade e aderência às regras de negócio.
+
+Sou formado como Técnico em Desenvolvimento de Sistemas pelo Senac RS e atualmente curso Análise e Desenvolvimento de Sistemas na Universidade do Vale do Rio dos Sinos (UNISINOS), em São Leopoldo/RS. Desde cedo, sou apaixonado por tecnologia e desenvolvimento de software, mantendo um processo contínuo de aprendizado por meio de projetos, estudos e cursos complementares.
+
+Possuo conhecimentos em desenvolvimento de sistemas, bancos de dados relacionais, modelagem de dados, UX/UI, metodologias ágeis e gestão de demandas utilizando Kanban. Tenho facilidade para aprender novas tecnologias, trabalhar em equipe e compreender necessidades de negócio, transformando-as em soluções práticas e eficientes.
+
+Inglês: nível intermediário/avançado. Estudei por dois anos na KNN Idiomas (Ivoti/RS) e continuo aprimorando minhas habilidades de comunicação para atuação em ambientes profissionais e tecnológicos.
 
 Objetivo Profissional
 
-Estou sempre aberto a novas oportunidades e desafios que me permitam crescer profissionalmente e contribuir com soluções eficientes e inovadoras na área de tecnologia.
+Busco continuar evoluindo como desenvolvedor de software, ampliando meus conhecimentos técnicos e contribuindo para projetos que gerem impacto real nos negócios, por meio de soluções inovadoras, escaláveis e de qualidade.
+
+
 
 
 
